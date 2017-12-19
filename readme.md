@@ -1,3 +1,11 @@
+<p>Ik heb de opdracht zodanig afgerond. Installeer laravel en voeg de SQL export die ik lever in de email in de database. Via xampp open het project en route de root folder naar: C:\xampp\htdocs\gastenboek (of naar de path die in het systeem aangegeven staat). Direct naar de public folder en het zou moeten werken!</p>
+
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
